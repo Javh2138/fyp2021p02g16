@@ -1,0 +1,54 @@
+commit eaf4a0fe4a9a8257513de0a70259bae8d58844d1
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Tue Mar 2 16:52:46 2021 +0100
+
+    deleting trash
+
+commit 6fec02abb4216e68e079c84106b20a06274a0293
+Author: Javh2138 <javh@itu.dk>
+Date:   Tue Mar 2 17:11:20 2021 +0100
+
+    added a notebook
+
+commit da73162a02bb9db496a75efdbae6edce70dcb322
+Merge: 31112a3 3edcf7a
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Tue Mar 2 16:45:05 2021 +0100
+
+    Merge branch 'main' of https://github.com/Javh2138/fyp2021p02g16 into main
+
+commit 3edcf7a9e51c94972be74a2a786e2a451649b3fb
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Tue Mar 2 16:43:37 2021 +0100
+
+    Added data
+
+commit b869a35c7605d42c60f139b093d5ddd860b1be4c
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Tue Mar 2 16:43:12 2021 +0100
+
+    Created folders needed
+
+commit 4da37d0323fb196169c3d59c9b6800a11dfaa173
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Tue Mar 2 16:40:03 2021 +0100
+
+    removed test folder
+
+commit a77c9e120659be3cc5ee6de8a7cb55ee4473f1a2
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Tue Mar 2 16:39:04 2021 +0100
+
+    Create .DS_Store
+
+commit 31112a31fd7ba62be447bf9291c387a52066808c
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Tue Mar 2 16:37:33 2021 +0100
+
+    test
+
+commit 9961304b78d546011bc5f93910302695720a1435
+Author: Javh2138 <78596973+Javh2138@users.noreply.github.com>
+Date:   Tue Mar 2 16:27:53 2021 +0100
+
+    Initial commit
