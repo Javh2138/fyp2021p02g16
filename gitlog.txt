@@ -1,3 +1,364 @@
+commit f6ffc8196dca4535cbc3004e9435263c0c9f8b78
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Thu Mar 18 15:54:58 2021 +0100
+
+    adding const to tests df
+
+commit 3f129789b0e9aa56adac5a16abf4340d1b5db229
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Thu Mar 18 03:41:13 2021 +0100
+
+    adding comments to the final code
+
+commit 9b59e5731986ee7acbf72776fd178483fb9b0310
+Author: Javh2138 <javh@itu.dk>
+Date:   Tue Mar 16 18:21:09 2021 +0100
+
+    added the final notebook with the relevant calculations might need some extra comments
+
+commit 5d802dd6ad1e3f359d895a69e15c9f6b220fddc7
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Tue Mar 16 17:30:35 2021 +0100
+
+    last calculation
+
+commit 33396c92eda0890e53b2567dde999c10ec759f53
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Tue Mar 16 14:01:32 2021 +0100
+
+    average per weekend and weekday
+
+commit 9de228ae478e311c6e3d36a1a08b24dcd4fb46b3
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Mon Mar 15 01:33:53 2021 +0100
+
+    fixing
+
+commit 421b1018648fe5ecd7679fd063eb857efe6e3324
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:56:11 2021 +0100
+
+    Revert "Merge branch 'main' of https://github.com/Javh2138/fyp2021p02g16 into main"
+    
+    This reverts commit e42c6c6d9c6e40f305c9d14ed7c3b721263c5279, reversing
+    changes made to 9801e415cb5256c649e838ce742f8909549a2075.
+
+commit a3d5cc55042a6a60ed185116960f4fcf42e10184
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:56:08 2021 +0100
+
+    Revert "idk"
+    
+    This reverts commit ce458a5835db490a2cf9b55d1a93d9ead97c1fd1.
+
+commit c3d1a1fa8904c6a31494a289c381163847db4f96
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:56:05 2021 +0100
+
+    Revert "Revert "idk""
+    
+    This reverts commit 217d222a6d340a35ea69dc6b9e298fb6de19f71f.
+
+commit 0ba49d544b9afd62266d79dc0d8efc0c0db028c1
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:56:03 2021 +0100
+
+    Revert "Revert "Revert "idk"""
+    
+    This reverts commit cc5446d13702bcf7182ac332d3f4f3fbd2731694.
+
+commit edc40642321f2ee1650c817b4a397546bb6deb3d
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:56:00 2021 +0100
+
+    Revert "Revert "idk""
+    
+    This reverts commit fe1d20018434fff45e0d374a0b9a7f09dd2c673e.
+
+commit 5e1f9af6a74582252873dde449feeb8c087cb5d0
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:55:58 2021 +0100
+
+    Revert "Revert "Merge branch 'main' of https://github.com/Javh2138/fyp2021p02g16 into main""
+    
+    This reverts commit ef655a0bebb9e31d462d91382c6f161a1b810a8b.
+
+commit be3ba0b1e10a5691fd713065da91fe9fb751a1f5
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:55:49 2021 +0100
+
+    Revert "yes"
+    
+    This reverts commit 5e2afca98374afadd61aa552a31d0e8a152feaf5, reversing
+    changes made to ef655a0bebb9e31d462d91382c6f161a1b810a8b.
+
+commit e62b17c43349d7f744777b2a9e3d4b5912b219a5
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:55:42 2021 +0100
+
+    Revert "Revert "yes""
+    
+    This reverts commit 8d7d2eb03da45d98a505799216a45f3e9f23a1bd.
+
+commit 8d7d2eb03da45d98a505799216a45f3e9f23a1bd
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:52:50 2021 +0100
+
+    Revert "yes"
+    
+    This reverts commit 5e2afca98374afadd61aa552a31d0e8a152feaf5, reversing
+    changes made to ef655a0bebb9e31d462d91382c6f161a1b810a8b.
+
+commit 5e2afca98374afadd61aa552a31d0e8a152feaf5
+Merge: ef655a0 320cab8
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:52:30 2021 +0100
+
+    yes
+
+commit ef655a0bebb9e31d462d91382c6f161a1b810a8b
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:51:03 2021 +0100
+
+    Revert "Merge branch 'main' of https://github.com/Javh2138/fyp2021p02g16 into main"
+    
+    This reverts commit e42c6c6d9c6e40f305c9d14ed7c3b721263c5279, reversing
+    changes made to 9801e415cb5256c649e838ce742f8909549a2075.
+
+commit fe1d20018434fff45e0d374a0b9a7f09dd2c673e
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:50:57 2021 +0100
+
+    Revert "idk"
+    
+    This reverts commit ce458a5835db490a2cf9b55d1a93d9ead97c1fd1.
+
+commit cc5446d13702bcf7182ac332d3f4f3fbd2731694
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:50:52 2021 +0100
+
+    Revert "Revert "idk""
+    
+    This reverts commit 217d222a6d340a35ea69dc6b9e298fb6de19f71f.
+
+commit 217d222a6d340a35ea69dc6b9e298fb6de19f71f
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:50:49 2021 +0100
+
+    Revert "idk"
+    
+    This reverts commit ce458a5835db490a2cf9b55d1a93d9ead97c1fd1.
+
+commit ce458a5835db490a2cf9b55d1a93d9ead97c1fd1
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 20:50:32 2021 +0100
+
+    idk
+
+commit e42c6c6d9c6e40f305c9d14ed7c3b721263c5279
+Merge: 9801e41 6449cad
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 17:42:45 2021 +0100
+
+    Merge branch 'main' of https://github.com/Javh2138/fyp2021p02g16 into main
+
+commit 6449cadd37a1b59bd53e26dcb3337f2b14586f1c
+Author: Javh2138 <javh@itu.dk>
+Date:   Mon Mar 15 18:01:16 2021 +0100
+
+    quick fix for test dataframe
+
+commit 9801e415cb5256c649e838ce742f8909549a2075
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 17:42:41 2021 +0100
+
+    Revert "Update Fyp2021p02g16.ipynb"
+    
+    This reverts commit b45f7971e65741d3b8c23a82438493f8927ada24.
+
+commit b45f7971e65741d3b8c23a82438493f8927ada24
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 17:42:23 2021 +0100
+
+    Update Fyp2021p02g16.ipynb
+
+commit 267afa3c7edda4be5625c77846d4e34276cebd8c
+Author: Javh2138 <javh@itu.dk>
+Date:   Mon Mar 15 15:00:46 2021 +0100
+
+    corrected the regions from our new data set and removed unknown regions
+
+commit 2dcd6238d4d575a3b5c48d2c38df7ef43e07e8b0
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 13:58:26 2021 +0100
+
+    more changes
+    
+    whole group
+
+commit 59dbfb7caa98f86954cea023d9cce18c2f1d7635
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Mon Mar 15 13:09:12 2021 +0100
+
+    added graphs and numeric summaries
+    
+    co-authors: whole group
+
+commit 320cab8ae096a912734189bbf225fa23c8d85d41
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Mon Mar 15 01:25:11 2021 +0100
+
+    Maps material for question 4 /w Christian
+
+commit 3c2b58da3c67de2cc82b73e6b2d6998d2c69005f
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Fri Mar 12 21:34:49 2021 +0100
+
+    update
+
+commit 6f47c05469751b70b175a47c2d9c0bfb9b080788
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Fri Mar 12 21:30:04 2021 +0100
+
+    adding a new map for humidity by region
+
+commit b06e4dee5f47dc487c3d800c209e9a8626cffa84
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Fri Mar 12 20:54:27 2021 +0100
+
+    humidity / addition plot
+
+commit 2b48f8273da8ba53195da82b7b40f82096c36929
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Fri Mar 12 19:47:56 2021 +0100
+
+    added nice graph of described timeline
+
+commit 0a75f1a590293b5a969b4d36f366d34925e8fcc7
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Fri Mar 12 16:19:00 2021 +0100
+
+    Works now
+    
+    Co-auhtor(s): whole group
+
+commit b7374c0f0c25ee2cefa44e148714a6c5c7921dc1
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Fri Mar 12 15:44:06 2021 +0100
+
+    Added graphs and changes here and there
+    
+    co-authors: rest of group
+
+commit 82ebf332f2dd15e1605a68a2f91a19d270d0762a
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Tue Mar 9 18:19:53 2021 +0100
+
+    Tuesday exercises
+
+commit 997e030c1dcf9690015efee57e22e455f4b81dc6
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Tue Mar 9 16:12:31 2021 +0100
+
+    weather2
+
+commit fb47d550f9bac418da6665d71534f32374c0a343
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Mon Mar 8 13:21:31 2021 +0100
+
+    update
+
+commit 4173d99e6b22aa21b5f22a2c5462f57037cc20fc
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Mon Mar 8 13:18:23 2021 +0100
+
+    plot dates and cases finished
+
+commit 300ea23fd39663effa35e39429660cfb7276add5
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Mon Mar 8 13:06:43 2021 +0100
+
+    plotting dates and cases
+
+commit 138b027d94ef8ec2e28c039789bcdbeea675346a
+Author: Javh2138 <javh@itu.dk>
+Date:   Mon Mar 8 12:57:06 2021 +0100
+
+    added the tasks 3-5 together with the rest of the group
+
+commit 4d721e965a14e2cfa3a2602821ec78c370c134b8
+Author: Javh2138 <javh@itu.dk>
+Date:   Mon Mar 8 12:32:44 2021 +0100
+
+    added the exercise notebook
+
+commit 77fd9e5989f79ad6825ee2b44463180325ae38c2
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Fri Mar 5 15:46:19 2021 +0100
+
+    Cleaned json files, co-author lukr/lukraschoa
+
+commit f995452a29b090690c7c4b3181da8e9fb12124f9
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Fri Mar 5 15:19:14 2021 +0100
+
+    cleaned metadata, coauthor lukr
+
+commit d5fe1e3e51f3eeb16cec665a115af014df74c3dd
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Fri Mar 5 14:07:55 2021 +0100
+
+    Update .DS_Store
+
+commit dac7781e524d214be551bd5d650d9514774e0516
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Fri Mar 5 13:17:41 2021 +0100
+
+    Finishing all tasks from ex1
+
+commit 426e0fb5951d28dc37f4d43e911474f37ba71696
+Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
+Date:   Fri Mar 5 13:09:06 2021 +0100
+
+    Finishing the tasks from ex.1
+
+commit f4b3fa383bd99259024ba6239087872e99d665cf
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Tue Mar 2 18:02:20 2021 +0100
+
+    Update Fyp2021p02g16.ipynb
+
+commit cd080c65ead92e540a4b0a95844cc723d88ea9be
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Tue Mar 2 17:30:27 2021 +0100
+
+    filtered netherlands data further
+
+commit 5198e8ba40b7782233589598e44f76a8af2f3a1e
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Tue Mar 2 17:04:37 2021 +0100
+
+    fitered data sets for netherlands
+
+commit b47398c35b80b87ef4c5a968e06c833a4fda0fd8
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Tue Mar 2 17:02:45 2021 +0100
+
+    Loaded corona nl data
+
+commit b35eba489c00d6f41b1e385de59dfcc0dc267829
+Merge: 95ee45b eaf4a0f
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Tue Mar 2 16:54:23 2021 +0100
+
+    Merge branch 'main' of https://github.com/Javh2138/fyp2021p02g16 into main
+
+commit 95ee45bb1821203841f8d3776ac4c4cf718fd888
+Author: hugzito <70936273+hugzito@users.noreply.github.com>
+Date:   Tue Mar 2 16:54:09 2021 +0100
+
+    did literally nothing lol
+
 commit eaf4a0fe4a9a8257513de0a70259bae8d58844d1
 Author: lukyrasocha <king1323@DESKTOP-E3RKS1V.localdomain>
 Date:   Tue Mar 2 16:52:46 2021 +0100
